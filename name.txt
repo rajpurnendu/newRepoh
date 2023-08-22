@@ -1,0 +1,2 @@
+How to staging area after staged?
+git restore --staged name.txt
